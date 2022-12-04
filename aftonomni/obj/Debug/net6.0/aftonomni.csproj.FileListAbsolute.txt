@@ -1,0 +1,15 @@
+C:\codes\project\avtomorfni\aftonomni\bin\Debug\net6.0\aftonomni.exe
+C:\codes\project\avtomorfni\aftonomni\bin\Debug\net6.0\aftonomni.deps.json
+C:\codes\project\avtomorfni\aftonomni\bin\Debug\net6.0\aftonomni.runtimeconfig.json
+C:\codes\project\avtomorfni\aftonomni\bin\Debug\net6.0\aftonomni.dll
+C:\codes\project\avtomorfni\aftonomni\bin\Debug\net6.0\aftonomni.pdb
+C:\codes\project\avtomorfni\aftonomni\obj\Debug\net6.0\aftonomni.csproj.AssemblyReference.cache
+C:\codes\project\avtomorfni\aftonomni\obj\Debug\net6.0\aftonomni.GeneratedMSBuildEditorConfig.editorconfig
+C:\codes\project\avtomorfni\aftonomni\obj\Debug\net6.0\aftonomni.AssemblyInfoInputs.cache
+C:\codes\project\avtomorfni\aftonomni\obj\Debug\net6.0\aftonomni.AssemblyInfo.cs
+C:\codes\project\avtomorfni\aftonomni\obj\Debug\net6.0\aftonomni.csproj.CoreCompileInputs.cache
+C:\codes\project\avtomorfni\aftonomni\obj\Debug\net6.0\aftonomni.dll
+C:\codes\project\avtomorfni\aftonomni\obj\Debug\net6.0\refint\aftonomni.dll
+C:\codes\project\avtomorfni\aftonomni\obj\Debug\net6.0\aftonomni.pdb
+C:\codes\project\avtomorfni\aftonomni\obj\Debug\net6.0\aftonomni.genruntimeconfig.cache
+C:\codes\project\avtomorfni\aftonomni\obj\Debug\net6.0\ref\aftonomni.dll
